@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Your Name",
+    "label": "",
+    "picture": "",
+    "email": "your.name@email.com",
+    "phone": "",
+    "website": "https://me.com",
+    "summary": "",
+    "location": {
+      "postalCode": "78702",
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "https://www.me.com",
+        "url": "https://www.me.com"
+      },
+      {
+        "network": "https://github.com/kasuboski",
+        "url": "https://github.com/kasuboski"
+      },
+      {
+        "network": "https://www.linkedin.com/in/joshkasuboski/",
+        "url": "https://www.linkedin.com/in/joshkasuboski/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cool Co",
+      "position": "Senior Person",
+      "website": "",
+      "startDate": "March 2019",
+      "endDate": "current",
+      "summary": "",
+      "highlights": [
+        "Did it all very well",
+        "Much good"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Learning",
+      "area": "Cool Degree",
+      "studyType": "B.S.",
+      "startDate": "2012 ",
+      "endDate": " 2016",
+      "gpa": "10.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "ReactJS",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Mobile Apps",
+      "level": "",
+      "keywords": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "name": "Other Languages",
+      "level": "",
+      "keywords": [
+        "Golang",
+        "Java",
+        "Python",
+        "C",
+        "C++"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
